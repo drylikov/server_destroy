@@ -1,0 +1,17 @@
+{
+  "name": "server_destroy",
+  "version": "1.0.1",
+  "description": "Enable destroying a server, and all currently open connections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/server_destroy"
+  },
+  "author": "",
+  "license": "",
+  "readmeFilename": "README.md",
+  "gitHead": ""
+}
